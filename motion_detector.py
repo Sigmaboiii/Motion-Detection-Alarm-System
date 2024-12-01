@@ -12,7 +12,7 @@ email_sent_count = 0
 max_emails = 3  
 
 def play_sound():
-    sound_file = r'C:\Users\HP\Desktop\DSMS\Sigmaf\alarm.wav'  
+    sound_file = r'path/to/alarm.wav'  
 
     if not os.path.exists(sound_file):
         print(f"Error: The file does not exist at the specified path: {sound_file}")
