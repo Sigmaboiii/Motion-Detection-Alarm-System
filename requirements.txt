@@ -1,0 +1,4 @@
+opencv-python
+requests
+simpleaudio
+requests
