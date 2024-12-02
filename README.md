@@ -37,22 +37,22 @@
 
    # PHP:
       
-       - You need to have PHP which you can download from here: https://windows.php.net/download/
-       - You can check out the further steps to download and set up PHP in your computer by referring to this website: 
-         https://www.geeksforgeeks.org/how-to-install-php-in-windows-10/
+   - You need to have PHP which you can download from here: https://windows.php.net/download/
+   - You can check out the further steps to download and set up PHP in your computer by referring to this website: 
+     https://www.geeksforgeeks.org/how-to-install-php-in-windows-10/
 
    # Python:
 
-       - For this code, I am using python 3.8 to ensure no errors as this version is the best version of python that can handle the 
-         library 'simpleaudio' with no errors.
+  - For this code, I am using python 3.8 to ensure no errors as this version is the best version of python that can handle the 
+    library 'simpleaudio' with no errors.
 
    # Composer: 
 
-       - Composer is a dependency management tool for PHP. It simplifies managing the libraries and dependencies your PHP projects 
-         rely on.
-       - To download composer, download it from this website: https://getcomposer.org/download/.
-       - Click on **composer-setup.exe**.
-       - You can follow the process of installing and setting up composer from this website: https://www.geeksforgeeks.org/how-to- 
+   - Composer is a dependency management tool for PHP. It simplifies managing the libraries and dependencies your PHP projects 
+     rely on.
+   - To download composer, download it from this website: https://getcomposer.org/download/.
+   - Click on **composer-setup.exe**.
+   - You can follow the process of installing and setting up composer from this website: https://www.geeksforgeeks.org/how-to- 
          install-php-composer-on-windows/
 
  Once every thing is set up, we can now go to the final section: **How to run the code??**:
