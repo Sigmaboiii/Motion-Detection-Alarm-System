@@ -61,10 +61,16 @@
 
 1. Clone this repository.
 2. Open Command prompt and type the path to this repository once you clone it onto your computer.
-3. Then, type the command 'pip install -r requirements.txt'.
-4. After the libraries are installed, type the command 'composer install' in the directory of this project.
-5. After PHPMailer is installed, run the command in your project directory 'php -S 127.0.0.1:8000' (Make sure you have read and did the steps from the section "How to set up your 'send_email.php'.
-6. Copy the url of the php file once you have run the command 'php -S localhost:5000' which will be something like: http://localhost:5000.
-7. In that URL, add /send_email.php which will make the URL look like http://localhost:5000/send_email.php.
-8. If it doesn't work and shows an error, try changing the PHP file name.
-9. Now, open your python file and in line 
+3. Then, type the command:
+-      pip install -r requirements.txt.
+5. After the libraries are installed, type the command
+-      composer install
+6.  in the directory of this project.
+7. After PHPMailer is installed, run the command in your project directory
+-     php -S 127.0.0.1:8000(Make sure you have read and did the steps from the section "How to set up your 'send_email.php'.)
+9. Copy the url of the php file once you have run the command 'php -S localhost:5000' which will be something like:
+-      http://localhost:5000.
+11. In that URL, add /send_email.php which will make the URL look like
+-      http://localhost:5000/send_email.php.
+14. If it doesn't work and shows an error, try changing the PHP file name.
+15. Now, open your python file and in line 
