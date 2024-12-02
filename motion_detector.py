@@ -12,7 +12,7 @@ email_sent_count = 0
 max_emails = 3  
 
 def play_sound():
-    sound_file = r'path/to/alarm.wav'  
+    sound_file = r'path/to/file/alarm.wav'  
 
     if not os.path.exists(sound_file):
         print(f"Error: The file does not exist at the specified path: {sound_file}")
@@ -26,7 +26,7 @@ def play_sound():
         print(f"An error occurred while trying to play the sound: {e}")
 
 def send_email():
-    url = 'http://localhost:8000/send_email.php'  
+    url = 'http://localhost:port/send_email.php'  
     try:
         response = requests.post(url)
         print(response.text)  
