@@ -36,4 +36,21 @@
 
 Now we have got to know, how do we setup our PHP file, now let us move towards the main part, how do we run the code??:
 
+# 📁 Prerequisites:
+
+1. PHP:
+
+- Download PHP from here.
+- Follow the setup instructions here.
+
+2. Python
+
+- Use Python 3.8 to avoid errors and ensure compatibility with the simpleaudio        library.
+
+3. Composer
+
+- Composer is a dependency management tool for PHP.
+- Download it from here.
+- Click on composer-setup.exe and follow the setup instructions here.
+
 
