@@ -58,4 +58,19 @@ Now we have got to know, how do we setup our PHP file, now let us move towards t
 1. Clone the repository:
 -     git clone https://github.com/Sigmaboiii/Motion-Detection-Alarm-System.git
 
+2. Open the terminal and navigate to the repository:
+-     cd path/to/the/repo 
+
+3. Run this command to install dependencies:
+-     pip install -r requirements.txt
+
+4. Run this composer command to install PHPMailer:
+-     composer install
+
+5. Run this PHP command to get the url of the PHP file:
+-     php -S localhost:port (You can change the value in the port. E.g. 5000, 8000, etc.)
+
+6. Adjust the URL if necessary. Example:
+-     http://localhost:8000/send_email.php
+
 
