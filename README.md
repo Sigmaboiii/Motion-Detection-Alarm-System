@@ -41,7 +41,7 @@ Now we have got to know, how do we setup our PHP file, now let us move towards t
 1. PHP:
 
 - Download PHP from [here](https://windows.php.net/download/).
-- Follow the setup instructions here.
+- Follow the setup instructions [here](https://www.geeksforgeeks.org/how-to-install-php-in-windows-10/).
 
 2. Python
 
