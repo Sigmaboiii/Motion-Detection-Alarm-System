@@ -73,4 +73,14 @@ Now we have got to know, how do we setup our PHP file, now let us move towards t
 6. Adjust the URL if necessary. Example:
 -     http://localhost:8000/send_email.php
 
+7. Adjust the Paths in Your Python File:
+
+- In line 15, enter the actual path to the file alarm.wav.
+- In line 29, replace the port used to run the PHP file and change send_email.php if you've renamed it.
+
+8. Run the python script:
+-     python motion_detector.py
+
+Enjoy!! 😊 
+
 
