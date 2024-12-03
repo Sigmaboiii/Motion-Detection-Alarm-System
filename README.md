@@ -51,6 +51,6 @@ Now we have got to know, how do we setup our PHP file, now let us move towards t
 
 - Composer is a dependency management tool for PHP.
 - Download it from [here](https://getcomposer.org/download/).
-- Click on composer-setup.exe and follow the setup instructions here.
+- Click on composer-setup.exe and follow the setup instructions   [here](https://www.geeksforgeeks.org/how-to-install-php-composer-on-windows/).
 
 
